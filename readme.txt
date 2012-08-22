@@ -6,3 +6,4 @@ snart blir det regn
 endrer setningen
 linjeskift
 endrer
+linjeskift 
