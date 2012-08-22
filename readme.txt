@@ -5,3 +5,4 @@ Kurs i versjonstyring
 snart blir det regn
 endrer setningen
 linjeskift
+endrer
