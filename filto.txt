@@ -2,3 +2,4 @@ endringer lagt til
 endrer i filto
 litt mer
 linjeskift
+hallo
