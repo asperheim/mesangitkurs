@@ -1,1 +1,2 @@
 legger til en fil
+legger til en linje
