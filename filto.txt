@@ -5,4 +5,9 @@ linjeskift
 hallo
 thomas
 cathrin
+<<<<<<< HEAD
 hei
+=======
+hei
+thomas endrer
+>>>>>>> thomas
