@@ -10,3 +10,4 @@ Git sine 4 objekter
 Erlend var her.
 
 added line
+added fix bug
