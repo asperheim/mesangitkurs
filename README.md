@@ -6,3 +6,5 @@ Git sine 4 objekter
 2. Commit
 3. Tree
 4. Tag
+
+Erlend var her.
