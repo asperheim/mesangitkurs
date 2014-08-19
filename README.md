@@ -1,7 +1,5 @@
 # Kurs i git
 
-----
-
 Git sine 4 objekter
 
 1. BLOB
