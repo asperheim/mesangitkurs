@@ -8,6 +8,15 @@ Git sine 4 objekter
 4. Tag
 
 Erlend var her.
+Marius var også her.
+Og Martin.
+
+### markdown test
+
+Git
+---
+
+=======
 
 added line
 added fix bug
