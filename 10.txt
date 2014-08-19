@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 konflikt lol?
+=======
+Kul fil 10
+>>>>>>> 4360ffd5de2a99fe390c00d5079c619efc51d9bf
