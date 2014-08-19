@@ -1,3 +1,2 @@
 Kul fil 1
-
-Wtf?
+Dette er fil 1, og dette er en endring i teksten.
