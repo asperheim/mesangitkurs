@@ -11,3 +11,4 @@ Erlend var her.
 
 added line
 added fix bug
+Marius var også her.
