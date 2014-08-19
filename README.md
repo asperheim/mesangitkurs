@@ -16,3 +16,8 @@ Og Martin.
 Git
 ---
 
+=======
+
+added line
+added fix bug
+Marius var også her.
