@@ -10,3 +10,9 @@ Git sine 4 objekter
 Erlend var her.
 Marius var også her.
 Og Martin.
+
+### markdown test
+
+Git
+---
+
